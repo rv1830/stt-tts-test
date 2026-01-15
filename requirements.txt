@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+psycopg2-binary
+sqlalchemy
+openai
+elevenlabs
+python-multipart
+deepgram-sdk
